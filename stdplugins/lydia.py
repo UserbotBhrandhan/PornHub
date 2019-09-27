@@ -1,8 +1,8 @@
 """Lydia AI plugin for @UniBorg
 
-.eai <as a reply to user's message //Turns AI on For that user.
-.dai <as a reply to user's message //Turns AI off For that user.
-.lai // Outputs List Of Currently added Users in AI Auto-Chat.
+.enacf <as a reply to user's message //Turns AI on For that user.
+.delcf <as a reply to user's message //Turns AI off For that user.
+.lstcf // Outputs List Of Currently added Users in AI Auto-Chat.
 
 Description: A module that Act as a chatbot and chat with a User/other Bot.
 This Module Needs CoffeeHouse API to work. so Join https://telegram.dog/IntellivoidDev and send #activateapi and follow instructions.
